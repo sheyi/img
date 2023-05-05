@@ -1,0 +1,107 @@
+body{
+	font-size: 90%;
+}
+#logo{
+	text-align: left;
+	line-height: normal;
+	margin: 5px;
+}
+#logo a{
+	padding: 0;
+	line-height: normal;
+}
+#logo span{
+	display: block;
+	margin-left: 0;
+}
+.menu-top {
+	position: static;
+	text-align: left;
+}
+.menu-top a{
+	padding-left: 0;
+}
+.bdaddtocitebtn{
+	float: left;
+}
+.fengmian h1{
+	margin: 5px;
+}
+.novel{
+	margin-left: 0 ;
+	width: 100%;
+}
+.novel p{
+	width: 100%;
+}
+.jianjie p {
+	margin: 5px;
+}
+dd,.relate dd{
+	width: 100%;
+	line-height: 24px;
+	height: 24px;
+	padding-left: 5px;
+}
+dt, h6, .xstitle{
+	padding: 0 5px;
+	margin-left: 0;
+	background:none repeat scroll 0 0 #efefef;
+	border-bottom: 1px solid #d6d6d6;	
+}
+.cat_box{
+	background: none;
+}
+dl.cat_box{
+	padding-left: 0;
+}
+.span-9,.span-5,.span-10,.span-7,.relate{
+	width: 100%;
+	float: left;
+}
+.suiji{
+	float: left;
+	width: 100%;
+}
+ul.gengxin li{
+	text-align: left;	
+}
+.gengxin span{
+	display: inline;
+	float: none;	
+	width: auto;	
+	padding: 0 3px 0 0;
+	margin: 0;
+	height: 24px;
+}
+.shuoming{
+	padding: 1px;
+}
+.mark,.setfont,.pagenavitop,.pagenavi,.jcpl{
+	text-align: left;
+}
+.setfont{
+	margin: 0;
+	padding:0;
+}
+.entry p{
+	margin: 15px 0;
+	padding-right:0;
+}
+.pagenavitop a, .pagenavitop span{
+	margin-right: 5px;
+}
+#gotopbtn{
+	margin-left: 35%;
+}
+#comment-author-info input{
+	width: auto;
+}
+/** quanben**/
+.novellist li{
+	width:auto;
+	margin-right:5px;
+}
+.MessageDiv {
+    text-align: left;
+}
