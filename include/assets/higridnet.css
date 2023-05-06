@@ -9,7 +9,7 @@ body {
     background-color: #F1FAFA;
     padding-top: 4.5rem;
     padding-bottom: 1rem;
-    background-image: url(/include/assets/bg-grid.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/sheyi/img/include/assets/bg-grid.png);
     background-repeat: repeat-x;
     background-position: 0 40px;
 }
